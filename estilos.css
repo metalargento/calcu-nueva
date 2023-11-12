@@ -17,9 +17,11 @@
   }
   #marco{
     box-shadow: 0 2px 5px rgb(155, 28, 28);
+    /* width: 850px;
+    margin: 0 auto; */
+    padding: 2%;
     border-radius: 15px;
-    font-size: 30px;
-    
+    font-size: 30px;    
 
   }
 
@@ -28,7 +30,7 @@
     margin: 5px;
     border: 1px solid #ac2f2f;
     border-radius: 4px;
-    font-size: 30px;
+    font-size: 20px;
   }
   
   button {
@@ -47,7 +49,7 @@
   
   p {
     margin-top: 20px;
-    font-size: 18px;
+    font-size: 25px;
   }
   
   #resultado {
